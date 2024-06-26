@@ -57,7 +57,7 @@ announcement-banner/
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [Junaid Ahmed](https://github.com/iamsjunaid)
 - Inspired by existing plugins like [Simple Banner](https://wordpress.org/plugins/simple-banner/), [Foobar Notifications Lite](https://wordpress.org/plugins/foobar-notifications-lite/), and [myStickymenu](https://wordpress.org/plugins/mystickymenu/).
 
 ## License
